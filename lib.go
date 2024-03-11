@@ -13,5 +13,9 @@ func Sub(a, b int) int {
 }
 
 func AAA(a, b int) int {
+    return a + b * a
+}
+
+func BBB(a, b int) int {
     return a + b * b
 }
