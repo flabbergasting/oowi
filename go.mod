@@ -1,3 +1,3 @@
-module github.com/flabbergasting/oowi
+module github.com/flabbergasting/oowi/v2
 
 go 1.20
