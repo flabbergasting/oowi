@@ -32,3 +32,6 @@ func EEE(a, b, c, d, e int) int {
     return a + b + c + d + e * e
 }
 
+func Woohoo(x, y int) int {
+    return (x * y) + (x + y)
+}
