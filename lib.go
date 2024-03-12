@@ -33,5 +33,5 @@ func EEE(a, b, c, d, e int) int {
 }
 
 func Woohoo(x, y int) int {
-    return (x * y) + (x + y)
+    return (x * y) + (x + y) - (x*2 + y*2)
 }
