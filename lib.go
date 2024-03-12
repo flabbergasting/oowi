@@ -27,3 +27,8 @@ func CCC (a, b, c int) int {
 func DDD(a, b, c, d int) int {
     return a + b + c + d * d
 }
+
+func EEE(a, b, c, d, e int) int {
+    return a + b + c + d + e * e
+}
+
