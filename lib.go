@@ -19,3 +19,7 @@ func AAA(a, b int) int {
 func BBB(a, b int) int {
     return a + b * b
 }
+
+func CCC (a, b, c int) int {
+    return a + b + c * c
+}
