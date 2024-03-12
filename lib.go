@@ -23,3 +23,7 @@ func BBB(a, b int) int {
 func CCC (a, b, c int) int {
     return a + b + c * c
 }
+
+func DDD(a, b, c, d int) int {
+    return a + b + c + d * d
+}
